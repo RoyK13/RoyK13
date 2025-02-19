@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 •🔭 I’m currently working on multiple projects
+
 •🌱 I’m currently learning python, C and HTML
+
 •👯 I’m looking to collaborate on interesting projects
+
 •🤔 I’m looking for help with learning new programming languages
+
 •😄 Pronouns: He/Him
